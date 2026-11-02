@@ -1,15 +1,16 @@
 # COMSOL
 大致規劃<br> 
-1.先了解一些背景知識<br>
-2.熟悉操作(像是調整參數、製作模型)<br>
-3.使用文獻資料練習模擬
+一.先了解一些背景知識<br>
+二.熟悉操作(像是調整參數、製作模型)<br>
+三.使用文獻資料練習模擬
 
+一、背景知識<br>
 1.電磁學與波動基礎<br>
 
+二、熟悉操作、常見問題<br>
 
-
-2.相關文獻<br>
-文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
+三、使用文獻資料練習模擬<br>
+1.文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
 這篇是在說改良一種QFN，Microleadframe®(MLF®)，名為routable MLF (rtMLF®)，可以更有效減少EMI<br>
 
 
