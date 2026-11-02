@@ -1,7 +1,20 @@
-1.電磁學與波動基礎<br>
+#1.電磁學與波動基礎<br>
 
 
 
-2.相關文獻<br>
+#2.相關文獻<br>
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
 Quad Flat No-lead(QFN)<br>
+往下找到 Material Contents，填入下列三項（EMC 的假設值）：
+Relative permittivity（相對介電常數）：3.7
+Relative permeability（相對導磁率）：1
+Electrical conductivity（導電率）：0 S/m
+
+想要使用COMSOL模擬出圖二，該如何下手呢?<br>
+目前已知參數:<br>
+Body size : 8 × 8 mm<br>
+Die size: 4 × 2 mm <br>
+A noise source was placed 0.3 mm away from the package top and 3.0 mm from a package side with an operation frequency of 5 GHz.<br>
+Gold (Au) wires are used<br>
+Conformal shield layer consists of SUS (Steel Use Stainless, SUS, an acronym from Japanese Industrial Standards (JIS))-Cu-SUS<br>
+
