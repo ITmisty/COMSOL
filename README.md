@@ -4,11 +4,11 @@
 2.熟悉操作(像是調整參數、製作模型)<br>
 3.使用文獻資料練習模擬
 
-#1.電磁學與波動基礎<br>
+1.電磁學與波動基礎<br>
 
 
 
-#2.相關文獻<br>
+2.相關文獻<br>
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
 Quad Flat No-lead(QFN)<br>
 往下找到 Material Contents，填入下列三項（EMC 的假設值）：
