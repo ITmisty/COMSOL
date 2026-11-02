@@ -11,10 +11,10 @@
 2.相關文獻<br>
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
 Quad Flat No-lead(QFN)<br>
-往下找到 Material Contents，填入下列三項（EMC 的假設值）：
-Relative permittivity（相對介電常數）：3.7
-Relative permeability（相對導磁率）：1
-Electrical conductivity（導電率）：0 S/m
+往下找到 Material Contents，填入下列三項（EMC 的假設值）：<br>
+Relative permittivity（相對介電常數）：3.7<br>
+Relative permeability（相對導磁率）：1<br>
+Electrical conductivity（導電率）：0 S/m<br>
 
 想要使用COMSOL模擬出圖二，該如何下手呢?<br>
 目前已知參數:<br>
