@@ -10,14 +10,15 @@
 
 2.相關文獻<br>
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
-Quad Flat No-lead(QFN)<br>
+這篇是在說改良一種QFN，Microleadframe®(MLF®)，名為routable MLF (rtMLF®)，可以更有效減少EMI<br>
+
+
+想要使用COMSOL模擬出圖二，該如何下手呢?<br>
+目前已知參數:<br>
 往下找到 Material Contents，填入下列三項（EMC 的假設值）：<br>
 Relative permittivity（相對介電常數）：3.7<br>
 Relative permeability（相對導磁率）：1<br>
 Electrical conductivity（導電率）：0 S/m<br>
-
-想要使用COMSOL模擬出圖二，該如何下手呢?<br>
-目前已知參數:<br>
 Body size : 8 × 8 mm<br>
 Die size: 4 × 2 mm <br>
 A noise source was placed 0.3 mm away from the package top and 3.0 mm from a package side with an operation frequency of 5 GHz.<br>
