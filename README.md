@@ -46,11 +46,11 @@ Conformal shield layer consists of SUS (Steel Use Stainless, SUS, an acronym fro
 自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
 也有可能我接觸時間不到半天，對操作不熟悉，也許有更快的方式。  
 附圖是我的成果，少的可憐。  
-<img width="884" height="604" alt="image" src="https://github.com/user-attachments/assets/d849a8a0-6c35-4e5a-b885-ce01eb19b6d6" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d849a8a0-6c35-4e5a-b885-ce01eb19b6d6" width="600">
+</p>
 
 為了節省時間，使用AI+MATLAB，先把參數和其他設定給AI，請他做出適合的MATLAB程式碼，再將MATLAB和COMSOL連結。
-
-
 
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  
   
