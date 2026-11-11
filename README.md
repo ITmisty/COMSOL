@@ -1,7 +1,7 @@
 # COMSOL Learning Journey
 一、背景知識<br>
 二、COMSOL建模<br>
-三、如何連結MATLAB和COMSOL<br>
+三、COMSOL LiveLink for MATLAB<br>
 四、使用文獻資料練習模擬<br>
 五、 錯誤紀錄&解決方法&功能
 
@@ -25,12 +25,14 @@
 8. Results：分析模擬結果<br>
 9. 顏色和動畫
 
-**三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
+**三、COMSOL LiveLink for MATLAB**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"，要選最原始的路徑，不是桌面捷徑的路徑<br>
+*第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
 3. 再輸入 comsolmphserver.exe<br>
 4. 在MATLAB中的Command Window中輸入 addpath('你的COMSOL安裝路徑\Multiphysics\mli');mphstart<br>
-完成後就會長這樣
+*如果前面有設密碼，連線時會問你，輸入同一組。接著輸入 mphversion，有顯示 COMSOL 版本就成功，之後就能 Run 腳本。
+完成後大概就會長這樣
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4605fa92-5730-4c91-8389-4cf4a89ed634" width="600">
 </p>
