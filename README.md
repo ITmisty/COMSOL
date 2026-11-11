@@ -1,6 +1,6 @@
 # COMSOL Learning Journey
 一、背景知識<br>
-二、COMSOL建模<br>
+二、COMSOL建模基礎步驟<br>
 三、COMSOL LiveLink for MATLAB<br>
 四、使用文獻資料練習模擬<br>
 五、 錯誤紀錄&解決方法&功能
@@ -14,7 +14,7 @@
 5. S-Parameters:S11、S21、Reflection、Transmission<br>
 6. EMI:Electromagnetic Interference、Shielding Effectiveness<br>
 
-**二、COMSOL建模<br>**
+**二、COMSOL建模基礎步驟<br>**
 1. Model Wizard：建立模型<br>
 2. Global Definitions：設定全域參數<br>
 3. Geometry：建立幾何結構<br>
