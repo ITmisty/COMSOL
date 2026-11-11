@@ -59,10 +59,11 @@ Relative Permeability:1	<br>
 Electrical Conductivity:0 S/m<br>
 
 3.Conformal Shielding Layer<br>
-- Material Structure: SUS–Cu–SUS<br>
-- SUS: Stainless Steel（不鏽鋼）<br>
-- Cu: Copper（銅）<br>
+Material Structure: SUS–Cu–SUS<br>
+SUS: Stainless Steel（不鏽鋼）<br>
+Cu: Copper（銅）<br>
 屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
+
 4.Simulation Conditions<br>
 Parameter	Value<br>
 Operating Frequency	5 GHz<br>
