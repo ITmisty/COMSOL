@@ -28,7 +28,7 @@
 9. 顏色和動畫
     
 <a id="livelink"></a>
-**三、COMSOL LiveLink for MATLAB**(MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
+**三、COMSOL LiveLink for MATLAB** (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"，要選最原始的路徑，不是桌面捷徑的路徑<br>
 *第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
@@ -49,45 +49,45 @@
 &emsp;&emsp;提醒:完成連接後命令提示字元視窗不要關，不然會終止 Server，使 MATLAB 無法繼續連線。
 
 <a id="practice"></a>
-**四、使用文獻資料練習模擬**
+**四、使用文獻資料練習模擬**<br>
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
-這篇是在說改良一種QFN，Microleadframe®(MLF®)，名為routable MLF (rtMLF®)，可以更有效減少EMI<br>
+&emsp;&emsp;這篇是在說改良一種QFN，Microleadframe®(MLF®)，名為routable MLF (rtMLF®)，可以更有效減少EMI<br>
 
 
-想要使用COMSOL模擬出圖二的Normal QFN，該如何下手呢?<br>
-列出部分參數(更完整的參數可以直接請AI抓再檢查就好):<br>
+&emsp;&emsp;想要使用COMSOL模擬出圖二的Normal QFN，該如何下手呢?<br>
+&emsp;&emsp;列出部分參數(更完整的參數可以直接請AI抓再檢查就好):<br>
 1. Geometry Parameters<br>
-Package Body Size:8 × 8 mm	<br>
-Die Size:4 × 2 mm<br>
-Bond Wire Material:Gold (Au)<br>	
+&emsp;&emsp;Package Body Size:8 × 8 mm	<br>
+&emsp;&emsp;Die Size:4 × 2 mm<br>
+&emsp;&emsp;Bond Wire Material:Gold (Au)<br>	
 2. Material Properties<br>
-EMC (Epoxy Molding Compound)<br>
-以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
-Relative Permittivity:3.7<br>
-Relative Permeability:1	<br>
-Electrical Conductivity:0 S/m<br>
+&emsp;&emsp;EMC (Epoxy Molding Compound)<br>
+&emsp;&emsp;以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
+&emsp;&emsp;Relative Permittivity:3.7<br>
+&emsp;&emsp;Relative Permeability:1	<br>
+&emsp;&emsp;Electrical Conductivity:0 S/m<br>
 
 3. Conformal Shielding Layer<br>
-Material Structure: SUS–Cu–SUS<br>
-SUS: Stainless Steel（不鏽鋼）<br>
-Cu: Copper（銅）<br>
-屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
+&emsp;&emsp;Material Structure: SUS–Cu–SUS<br>
+&emsp;&emsp;SUS: Stainless Steel（不鏽鋼）<br>
+&emsp;&emsp;Cu: Copper（銅）<br>
+&emsp;&emsp;屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
 
 4. Simulation Conditions<br>
-Parameter	Value<br>
-Operating Frequency	5 GHz<br>
-Noise Source Distance from Package Top	0.3 mm<br>
-Noise Source Distance from Package Side	3.0 mm<br>
+&emsp;&emsp;Parameter	Value<br>
+&emsp;&emsp;Operating Frequency	5 GHz<br>
+&emsp;&emsp;Noise Source Distance from Package Top	0.3 mm<br>
+&emsp;&emsp;Noise Source Distance from Package Side	3.0 mm<br>
 
-都找完之後就可以打開COMSOL，結果如下:<br>
-自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
-可能我接觸時間少對操作不熟悉，也許有更快的方式。  
-附圖是我改用AI+MATLAB前的成果，少的可憐。  
+&emsp;&emsp;都找完之後就可以打開COMSOL，結果如下:<br>
+&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
+&emsp;&emsp;可能我接觸時間少對操作不熟悉，也許有更快的方式。  
+&emsp;&emsp;附圖是我改用AI+MATLAB前的成果，少的可憐。  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad6946ef-aadf-4a42-bf78-defd8ad1ba62" width="600">
 </p>
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  <br>
-這篇試著直接用MATLAB，然後學習在MATLAB端做調整 <br>
+這&emsp;&emsp;篇試著直接用MATLAB，然後學習在MATLAB端做調整 <br>
 
 
 <a id="errors"></a>
