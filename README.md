@@ -27,13 +27,6 @@
 **三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1.先打開命令提示字元<br>
 2.輸入 cd /d "~~C:\Program Files\COMSOL\COMSOL56\Multiphysics\bin\win64~~"，畫線的地方請自行輸入你的COMSOL安裝路徑，要選最原始的路徑(可在本機處搜尋COMSOL找)，不是桌面捷徑的路徑<br>
-
-% Add COMSOL LiveLink path
-addpath('你的COMSOL安裝路徑\Multiphysics\mli');
-
-% Connect MATLAB to COMSOL Server
-mphstart
-
 3.再輸入comsolmphserver.exe<br>
 4.在MATLAB中的Command Window中輸入 addpath('~~C:\Program Files\COMSOL\COMSOL56\Multiphysics~~\mli'); mphstart。<br>
 完成後就會這樣
@@ -53,15 +46,14 @@ mphstart
 
 想要使用COMSOL模擬出圖二的Normal QFN，該如何下手呢?<br>
 目前已知參數:<br>
-1. Geometry Parameters（幾何參數）
-Parameter	Value	Description
-Package Body Size	8 × 8 mm	封裝本體尺寸
-Die Size	4 × 2 mm	晶片尺寸
-Bond Wire Material	Gold (Au)	金線材質
-都找完之後就可以打開COMSOL，步驟如下:<br>
-2. Material Properties（材料參數）
-EMC (Epoxy Molding Compound)
-以下數值為模擬時採用的假設值，並非已確認的論文原始數據。
+1. Geometry Parameters（幾何參數）<br>
+Package Body Size:8 × 8 mm	<br>
+Die Size:4 × 2 mm
+Bond Wire Material:Gold (Au)	
+
+2. Material Properties<br>
+EMC (Epoxy Molding Compound)<br>
+以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
 Parameter	Symbol	Value	Unit
 Relative Permittivity	\(\varepsilon_r\)	3.7	—
 Relative Permeability	\(\mu_r\)	1	—
@@ -78,6 +70,7 @@ Operating Frequency	5 GHz
 Noise Source Distance from Package Top	0.3 mm
 Noise Source Distance from Package Side	3.0 mm
 
+都找完之後就可以打開COMSOL，步驟如下:<br>
 自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
 也有可能我接觸時間不到半天，對操作不熟悉，也許有更快的方式。  
 附圖是我的成果，少的可憐。  
