@@ -36,8 +36,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6564f543-81e1-470d-8146-af2d61e1e26e" width="600">
+  <img src="https://github.com/user-attachments/assets/515ac975-295a-4065-a419-15ec0191af14" width="600">
 </p>
+
 
 提醒:完成連接後命令提示字元視窗不要關，不然會終止 Server，並使 MATLAB 無法繼續連線。
 
