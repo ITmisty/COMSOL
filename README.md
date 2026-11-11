@@ -88,6 +88,7 @@ Noise Source Distance from Package Side	3.0 mm<br>
 這篇試著直接用MATLAB，然後學習在MATLAB端做調整
 
   
-**五、錯誤紀錄&解決方法**
-
+**五、錯誤紀錄&解決方法&功能**
+1. 鏡射
+2. 複製
 
