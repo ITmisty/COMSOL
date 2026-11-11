@@ -29,8 +29,8 @@
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"，要選最原始的路徑，不是桌面捷徑的路徑<br>
 3. 再輸入 comsolmphserver.exe<br>
-4. 在MATLAB中的Command Window中輸入 addpath('~~C:\Program Files\COMSOL\COMSOL56\Multiphysics~~\mli'); mphstart。<br>
-完成後就會這樣
+4. 在MATLAB中的Command Window中輸入addpath('你的COMSOL安裝路徑\Multiphysics\mli');mphstart<br>
+完成後就會長這樣
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4605fa92-5730-4c91-8389-4cf4a89ed634" width="600">
 </p>
