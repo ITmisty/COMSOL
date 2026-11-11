@@ -54,23 +54,23 @@ Bond Wire Material:Gold (Au)
 2. Material Properties<br>
 EMC (Epoxy Molding Compound)<br>
 以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
-Parameter	Symbol	Value	Unit
-Relative Permittivity	\(\varepsilon_r\)	3.7	—
-Relative Permeability	\(\mu_r\)	1	—
-Electrical Conductivity	\(\sigma\)	0	S/m
-Conformal Shielding Layer（共形屏蔽層）
-- Material Structure: SUS–Cu–SUS
-- SUS: Stainless Steel（不鏽鋼）
-- Cu: Copper（銅）
-屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。
+Relative Permittivity \(\varepsilon _{r}\):3.7<br>
+Relative Permeability \(\mu _{r}\):1	<br>
+Electrical Conductivity,EC:0S/m<br>
 
-3. Simulation Conditions（模擬條件）
-Parameter	Value
-Operating Frequency	5 GHz
-Noise Source Distance from Package Top	0.3 mm
-Noise Source Distance from Package Side	3.0 mm
+Conformal Shielding Layer（共形屏蔽層）<br>
+- Material Structure: SUS–Cu–SUS<br>
+- SUS: Stainless Steel（不鏽鋼）<br>
+- Cu: Copper（銅）<br>
+屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
 
-都找完之後就可以打開COMSOL，步驟如下:<br>
+3. Simulation Conditions（模擬條件）<br>
+Parameter	Value<br>
+Operating Frequency	5 GHz<br>
+Noise Source Distance from Package Top	0.3 mm<br>
+Noise Source Distance from Package Side	3.0 mm<br>
+
+都找完之後就可以打開COMSOL，結果如下:<br>
 自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
 也有可能我接觸時間不到半天，對操作不熟悉，也許有更快的方式。  
 附圖是我的成果，少的可憐。  
