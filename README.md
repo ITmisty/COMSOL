@@ -89,9 +89,6 @@ Noise Source Distance from Package Side	3.0 mm<br>
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  <br>
 這篇試著直接用MATLAB，然後學習在MATLAB端做調整
 
-  
-
-
 <a id="errors"></a>
 **五、錯誤紀錄&解決方法&功能**
 
