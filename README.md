@@ -80,7 +80,7 @@
 &emsp;&emsp;&emsp;&emsp;Noise Source Distance from Package Side	3.0 mm<br>
 
 &emsp;&emsp;都找完之後就可以打開COMSOL，結果如下:<br>
-&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材 
+&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，還要確認座標正確、材 
 料對的上。  
 &emsp;&emsp;可能我接觸時間少對操作不熟悉，也許有更快的方式。  
 &emsp;&emsp;附圖是我改用AI+MATLAB前的成果，少的可憐。  
