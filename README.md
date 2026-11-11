@@ -1,16 +1,28 @@
-# COMSOL
-大致規劃<br> 
-一.先了解一些背景知識<br>
-二.熟悉操作(像是調整參數、製作模型)<br>
-三.如何連結MATLAB和COMSOL  
-四.使用文獻資料練習模擬
+# COMSOL Learning Journey
+01. Background Knowledge<br>
+02. COMSOL Fundamentals<br>
+03. COMSOL–MATLAB Integration<br>
+04. Literature-Based Simulation<br>
+05. Learning Notes & Troubleshooting
 
 
 **一、背景知識<br>**
-1.電磁學與波動基礎<br>
+1.Electromagnetics:Maxwell's Equations<br>
+2.Electromagnetic Waves:Frequency、Wavelength、Propagation<br>
+3.Material Properties:Permittivity、Permeability、Conductivity<br>
+4.RF Fundamentals:Resonance、Impedance、RF Loss<br>
+5.S-Parameters:S11、S21、Reflection、Transmission<br>
+6.EMI:Electromagnetic Interference、Shielding Effectiveness<br>
 
-**二、熟悉操作、常見問題<br>**
-
+**二、COMSOL建模<br>**
+1.Model Wizard：建立模型<br>
+2.Global Definitions：設定全域參數<br>
+3.Geometry：建立幾何結構<br>
+4.Materials：設定材料<br>
+5.Physics：設定物理場<br>
+6.Mesh：建立網格<br>
+7.Study：設定求解方式<br>
+8.Results：分析模擬結果<br>
 
 **三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1.先打開命令提示字元<br>
