@@ -7,23 +7,23 @@
 
 
 **一、背景知識<br>**
-1.Electromagnetics:Maxwell's Equations<br>
-2.Electromagnetic Waves:Frequency、Wavelength、Propagation<br>
-3.Material Properties:Permittivity、Permeability、Conductivity<br>
-4.RF Fundamentals:Resonance、Impedance、RF Loss<br>
-5.S-Parameters:S11、S21、Reflection、Transmission<br>
-6.EMI:Electromagnetic Interference、Shielding Effectiveness<br>
+1. Electromagnetics:Maxwell's Equations<br>
+2. Electromagnetic Waves:Frequency、Wavelength、Propagation<br>
+3. Material Properties:Permittivity、Permeability、Conductivity<br>
+4. RF Fundamentals:Resonance、Impedance、RF Loss<br>
+5. S-Parameters:S11、S21、Reflection、Transmission<br>
+6. EMI:Electromagnetic Interference、Shielding Effectiveness<br>
 
 **二、COMSOL建模<br>**
-1.Model Wizard：建立模型<br>
-2.Global Definitions：設定全域參數<br>
-3.Geometry：建立幾何結構<br>
-4.Materials：設定材料<br>
-5.Physics：設定物理場<br>
-6.Mesh：建立網格<br>
-7.Study：設定求解方式<br>
-8.Results：分析模擬結果<br>
-9.顏色和動畫
+1. Model Wizard：建立模型<br>
+2. Global Definitions：設定全域參數<br>
+3. Geometry：建立幾何結構<br>
+4. Materials：設定材料<br>
+5. Physics：設定物理場<br>
+6. Mesh：建立網格<br>
+7. Study：設定求解方式<br>
+8. Results：分析模擬結果<br>
+9. 顏色和動畫
 
 **三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1.先打開命令提示字元<br>
@@ -58,13 +58,13 @@ Relative Permittivity:3.7<br>
 Relative Permeability:1	<br>
 Electrical Conductivity:0 S/m<br>
 
-3.Conformal Shielding Layer<br>
+3. Conformal Shielding Layer<br>
 Material Structure: SUS–Cu–SUS<br>
 SUS: Stainless Steel（不鏽鋼）<br>
 Cu: Copper（銅）<br>
 屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
 
-4.Simulation Conditions<br>
+4. Simulation Conditions<br>
 Parameter	Value<br>
 Operating Frequency	5 GHz<br>
 Noise Source Distance from Package Top	0.3 mm<br>
