@@ -3,7 +3,7 @@
 二、COMSOL建模<br>
 三、如何連結MATLAB和COMSOL<br>
 四、使用文獻資料練習模擬<br>
-五、 錯誤紀錄&解決方法
+五、 錯誤紀錄&解決方法&功能
 
 
 **一、背景知識<br>**
@@ -23,6 +23,7 @@
 6.Mesh：建立網格<br>
 7.Study：設定求解方式<br>
 8.Results：分析模擬結果<br>
+9.顏色和動畫
 
 **三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1.先打開命令提示字元<br>
@@ -45,26 +46,23 @@
 
 
 想要使用COMSOL模擬出圖二的Normal QFN，該如何下手呢?<br>
-目前已知參數:<br>
+列出部分參數(更完整的參數可以直接請AI抓再檢查就好):<br>
 1. Geometry Parameters<br>
 Package Body Size:8 × 8 mm	<br>
-Die Size:4 × 2 mm
-Bond Wire Material:Gold (Au)	
-
+Die Size:4 × 2 mm<br>
+Bond Wire Material:Gold (Au)<br>	
 2. Material Properties<br>
 EMC (Epoxy Molding Compound)<br>
 以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
 Relative Permittivity:3.7<br>
 Relative Permeability:1	<br>
 Electrical Conductivity:0S/m<br>
-
-Conformal Shielding Layer<br>
+3.Conformal Shielding Layer<br>
 - Material Structure: SUS–Cu–SUS<br>
 - SUS: Stainless Steel（不鏽鋼）<br>
 - Cu: Copper（銅）<br>
 屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
-
-3. Simulation Conditions<br>
+4.Simulation Conditions<br>
 Parameter	Value<br>
 Operating Frequency	5 GHz<br>
 Noise Source Distance from Package Top	0.3 mm<br>
@@ -72,14 +70,16 @@ Noise Source Distance from Package Side	3.0 mm<br>
 
 都找完之後就可以打開COMSOL，結果如下:<br>
 自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
-也有可能我接觸時間不到半天，對操作不熟悉，也許有更快的方式。  
-附圖是我改用AI+MATLAB的成果，少的可憐。  
+有可能我接觸時間少，對操作不熟悉，也許有更快的方式。  
+附圖是我改用AI+MATLAB前的成果，少的可憐。  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d849a8a0-6c35-4e5a-b885-ce01eb19b6d6" width="600">
 </p>
 
 
-文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  
+文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  <br>
+這篇試著直接用MATLAB，然後學習在MATLAB端做調整
+
   
 **五、錯誤紀錄&解決方法**
 
