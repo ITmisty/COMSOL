@@ -57,30 +57,31 @@
 &emsp;&emsp;想要使用COMSOL模擬出圖二的Normal QFN，該如何下手呢?<br>
 &emsp;&emsp;列出部分參數(更完整的參數可以直接請AI抓再檢查就好):<br>
 &emsp;&emsp;1. Geometry Parameters<br>
-&emsp;&emsp;Package Body Size:8 × 8 mm	<br>
-&emsp;&emsp;Die Size:4 × 2 mm<br>
-&emsp;&emsp;Bond Wire Material:Gold (Au)<br>	
+&emsp;&emsp;&emsp;&emsp;Package Body Size:8 × 8 mm	<br>
+&emsp;&emsp;&emsp;&emsp;Die Size:4 × 2 mm<br>
+&emsp;&emsp;&emsp;&emsp;Bond Wire Material:Gold (Au)<br>	
 &emsp;&emsp;2. Material Properties<br>
-&emsp;&emsp;EMC (Epoxy Molding Compound)<br>
-&emsp;&emsp;以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
-&emsp;&emsp;Relative Permittivity:3.7<br>
-&emsp;&emsp;Relative Permeability:1	<br>
-&emsp;&emsp;Electrical Conductivity:0 S/m<br>
+&emsp;&emsp;&emsp;&emsp;EMC (Epoxy Molding Compound)<br>
+&emsp;&emsp;&emsp;&emsp;以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
+&emsp;&emsp;&emsp;&emsp;Relative Permittivity:3.7<br>
+&emsp;&emsp;&emsp;&emsp;Relative Permeability:1	<br>
+&emsp;&emsp;&emsp;&emsp;Electrical Conductivity:0 S/m<br>
 
 &emsp;&emsp;3. Conformal Shielding Layer<br>
-&emsp;&emsp;Material Structure: SUS–Cu–SUS<br>
-&emsp;&emsp;SUS: Stainless Steel（不鏽鋼）<br>
-&emsp;&emsp;Cu: Copper（銅）<br>
-&emsp;&emsp;屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
+&emsp;&emsp;&emsp;&emsp;Material Structure: SUS–Cu–SUS<br>
+&emsp;&emsp;&emsp;&emsp;SUS: Stainless Steel（不鏽鋼）<br>
+&emsp;&emsp;&emsp;&emsp;Cu: Copper（銅）<br>
+&emsp;&emsp;&emsp;&emsp;屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
 
 &emsp;&emsp;4. Simulation Conditions<br>
-&emsp;&emsp;Parameter	Value<br>
-&emsp;&emsp;Operating Frequency	5 GHz<br>
-&emsp;&emsp;Noise Source Distance from Package Top	0.3 mm<br>
-&emsp;&emsp;Noise Source Distance from Package Side	3.0 mm<br>
+&emsp;&emsp;&emsp;&emsp;Parameter Value<br>
+&emsp;&emsp;&emsp;&emsp;Operating Frequency	5 GHz<br>
+&emsp;&emsp;&emsp;&emsp;Noise Source Distance from Package Top	0.3 mm<br>
+&emsp;&emsp;&emsp;&emsp;Noise Source Distance from Package Side	3.0 mm<br>
 
 &emsp;&emsp;都找完之後就可以打開COMSOL，結果如下:<br>
-&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材&emsp;&emsp;料對的上。  
+&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材 
+料對的上。  
 &emsp;&emsp;可能我接觸時間少對操作不熟悉，也許有更快的方式。  
 &emsp;&emsp;附圖是我改用AI+MATLAB前的成果，少的可憐。  
 <p align="center">
