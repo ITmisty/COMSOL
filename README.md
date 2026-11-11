@@ -2,14 +2,25 @@
 大致規劃<br> 
 一.先了解一些背景知識<br>
 二.熟悉操作(像是調整參數、製作模型)<br>
-三.使用文獻資料練習模擬
+三.如何連結MATLAB和COMSOL  
+四.使用文獻資料練習模擬
+
 
 **一、背景知識<br>**
 1.電磁學與波動基礎<br>
 
 **二、熟悉操作、常見問題<br>**
 
-**三、使用文獻資料練習模擬<br>**
+
+**三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)
+先打開命令提示字元，輸入 cd /d "~~C:\Program Files\COMSOL\COMSOL56\Multiphysics\bin\win64~~"，刪除號的地方請自行輸入你COMSOL的路徑，然後再輸入comsolmphserver.exe，接著在MATLAB中的Command Window中輸入 addpath('C:\Program Files\COMSOL\COMSOL56\Multiphysics\mli'); mphstart。
+完成後就會這樣
+<img width="1958" height="659" alt="image" src="https://github.com/user-attachments/assets/107ae9ad-ff96-4e94-9bdc-06f74307df12" />  
+
+<img width="1645" height="416" alt="image" src="https://github.com/user-attachments/assets/6564f543-81e1-470d-8146-af2d61e1e26e" />  
+提醒:完成連接後命令提示字元視窗不要關，這樣萬一斷掉不用再重開
+
+**四、使用文獻資料練習模擬<br>**
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
 這篇是在說改良一種QFN，Microleadframe®(MLF®)，名為routable MLF (rtMLF®)，可以更有效減少EMI<br>
 
@@ -25,4 +36,20 @@ Die size: 4 × 2 mm <br>
 A noise source was placed 0.3 mm away from the package top and 3.0 mm from a package side with an operation frequency of 5 GHz.<br>
 Gold (Au) wires are used<br>
 Conformal shield layer consists of SUS (Steel Use Stainless, SUS, an acronym from Japanese Industrial Standards (JIS))-Cu-SUS<br>
-自己手搓了
+都找完之後就可以打開COMSOL，步驟如下:<br>
+1.
+
+自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦了，要先建好一支、複製一排、使用鏡射到對面，其中還要確認座標正確、材料對的上。  
+也有可能我接觸時間不到半天，對操作不熟悉，也許有更快的方式。  
+附圖是我的成果，少的可憐。  
+<img width="884" height="604" alt="image" src="https://github.com/user-attachments/assets/d849a8a0-6c35-4e5a-b885-ce01eb19b6d6" />
+
+為了節省時間，使用AI+MATLAB，先把參數和其他設定給AI，請他做出適合的MATLAB程式碼，再將MATLAB和COMSOL連結。
+
+
+
+文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  
+  
+
+
+
