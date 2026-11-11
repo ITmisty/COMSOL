@@ -80,7 +80,7 @@ Noise Source Distance from Package Side	3.0 mm<br>
 可能我接觸時間少對操作不熟悉，也許有更快的方式。  
 附圖是我改用AI+MATLAB前的成果，少的可憐。  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3649b26-0601-4f1f-b6dd-b8d5e6b30a4d" width="600">
+  <img src="https://github.com/user-attachments/assets/ad6946ef-aadf-4a42-bf78-defd8ad1ba62" width="600">
 </p>
 
 
