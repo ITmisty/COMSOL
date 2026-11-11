@@ -54,9 +54,9 @@ Bond Wire Material:Gold (Au)
 2. Material Properties<br>
 EMC (Epoxy Molding Compound)<br>
 以下數值為模擬時採用的假設值，並非已確認的論文原始數據。<br>
-Relative Permittivity \(\varepsilon _{r}\):3.7<br>
-Relative Permeability \(\mu _{r}\):1	<br>
-Electrical Conductivity,EC:0S/m<br>
+Relative Permittivity:3.7<br>
+Relative Permeability:1	<br>
+Electrical Conductivity:0S/m<br>
 
 Conformal Shielding Layer（共形屏蔽層）<br>
 - Material Structure: SUS–Cu–SUS<br>
