@@ -27,6 +27,7 @@
 **三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1.先打開命令提示字元<br>
 2.輸入 cd /d "~~C:\Program Files\COMSOL\COMSOL56\Multiphysics\bin\win64~~"，畫線的地方請自行輸入你COMSOL的路徑，要選最原始的路徑(可在本機處搜尋COMSOL找)，不是桌面捷徑的路徑<br>
+
 % Add COMSOL LiveLink path
 addpath('你的COMSOL安裝路徑\Multiphysics\mli');
 
