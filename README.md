@@ -32,6 +32,7 @@ addpath('你的COMSOL安裝路徑\Multiphysics\mli');
 
 % Connect MATLAB to COMSOL Server
 mphstart
+
 3.再輸入comsolmphserver.exe<br>
 4.在MATLAB中的Command Window中輸入 addpath('~~C:\Program Files\COMSOL\COMSOL56\Multiphysics~~\mli'); mphstart。<br>
 完成後就會這樣
