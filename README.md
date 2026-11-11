@@ -15,6 +15,9 @@
 **三、如何連結MATLAB和COMSOL**  (MATLAB使用前可以確認所屬學校或機構有沒有買)
 先打開命令提示字元，輸入 cd /d "~~C:\Program Files\COMSOL\COMSOL56\Multiphysics\bin\win64~~"，刪除號的地方請自行輸入你COMSOL的路徑，然後再輸入comsolmphserver.exe，接著在MATLAB中的Command Window中輸入 addpath('C:\Program Files\COMSOL\COMSOL56\Multiphysics\mli'); mphstart。
 完成後就會這樣
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/107ae9ad-ff96-4e94-9bdc-06f74307df12" width="600">
+</p>
 <img width="1958" height="659" alt="image" src="https://github.com/user-attachments/assets/107ae9ad-ff96-4e94-9bdc-06f74307df12" />  
 
 <img width="1645" height="416" alt="image" src="https://github.com/user-attachments/assets/6564f543-81e1-470d-8146-af2d61e1e26e" />  
