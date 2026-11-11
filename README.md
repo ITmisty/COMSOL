@@ -18,9 +18,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/107ae9ad-ff96-4e94-9bdc-06f74307df12" width="600">
 </p>
-<img width="1958" height="659" alt="image" src="https://github.com/user-attachments/assets/107ae9ad-ff96-4e94-9bdc-06f74307df12" />  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6564f543-81e1-470d-8146-af2d61e1e26e" width="600">
+</p>
 
-<img width="1645" height="416" alt="image" src="https://github.com/user-attachments/assets/6564f543-81e1-470d-8146-af2d61e1e26e" />  
 提醒:完成連接後命令提示字元視窗不要關，這樣萬一斷掉不用再重開
 
 **四、使用文獻資料練習模擬<br>**
