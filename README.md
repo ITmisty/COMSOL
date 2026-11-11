@@ -1,9 +1,9 @@
 # COMSOL Learning Journey
 [一、背景知識](#bg)<br>
-二、COMSOL建模基礎步驟<br>
-三、COMSOL LiveLink for MATLAB<br>
-四、使用文獻資料練習模擬<br>
-[五、錯誤紀錄&解決方法&功能](#五錯誤紀錄解決方法功能)
+[二、COMSOL建模基礎步驟](#step)<br>
+[三、COMSOL LiveLink for MATLAB](#livelink)<br>
+[四、使用文獻資料練習模擬](#practice)<br>
+[五、錯誤紀錄&解決方法&功能](#errors)
 
 
 <a id="bg"></a>
@@ -15,7 +15,8 @@
 5. S-Parameters:S11、S21、Reflection、Transmission<br>
 6. EMI:Electromagnetic Interference、Shielding Effectiveness<br>
 
-**二、COMSOL建模基礎步驟<br>**
+<a id="step"></a>
+**二、COMSOL建模基礎步驟**
 1. Model Wizard：建立模型<br>
 2. Global Definitions：設定全域參數<br>
 3. Geometry：建立幾何結構<br>
@@ -25,8 +26,9 @@
 7. Study：設定求解方式<br>
 8. Results：分析模擬結果<br>
 9. 顏色和動畫
-
-**三、COMSOL LiveLink for MATLAB**  (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
+    
+<a id="livelink"></a>
+**三、COMSOL LiveLink for MATLAB**(MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"，要選最原始的路徑，不是桌面捷徑的路徑<br>
 *第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
@@ -46,7 +48,8 @@
 
 提醒:完成連接後命令提示字元視窗不要關，不然會終止 Server，使 MATLAB 無法繼續連線。
 
-**四、使用文獻資料練習模擬<br>**
+<a id="practice"></a>
+**四、使用文獻資料練習模擬**
 文獻一:EMI shielding leadless package solution for automotive - Journal of Advanced Joining Processes, 2022<br>
 這篇是在說改良一種QFN，Microleadframe®(MLF®)，名為routable MLF (rtMLF®)，可以更有效減少EMI<br>
 
@@ -89,7 +92,6 @@ Noise Source Distance from Package Side	3.0 mm<br>
 這篇試著直接用MATLAB，然後學習在MATLAB端做調整
 
   
-##五、錯誤紀錄&解決方法&功能
-1. 鏡射
-2. 複製
+<a id="errors"></a>
+**五、錯誤紀錄&解決方法&功能**
 
