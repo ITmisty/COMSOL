@@ -57,6 +57,7 @@ EMC (Epoxy Molding Compound)<br>
 Relative Permittivity:3.7<br>
 Relative Permeability:1	<br>
 Electrical Conductivity:0 S/m<br>
+
 3.Conformal Shielding Layer<br>
 - Material Structure: SUS–Cu–SUS<br>
 - SUS: Stainless Steel（不鏽鋼）<br>
