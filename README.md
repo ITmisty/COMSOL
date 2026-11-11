@@ -1,12 +1,13 @@
 # COMSOL Learning Journey
-[一、背景知識](#一背景知識)<br>
+[一、背景知識](#bg)<br>
 二、COMSOL建模基礎步驟<br>
 三、COMSOL LiveLink for MATLAB<br>
 四、使用文獻資料練習模擬<br>
 [五、錯誤紀錄&解決方法&功能](#五錯誤紀錄解決方法功能)
 
 
-**一、背景知識<br>**
+<a id="bg"></a>
+**一、背景知識**
 1. Electromagnetics:Maxwell's Equations<br>
 2. Electromagnetic Waves:Frequency、Wavelength、Propagation<br>
 3. Material Properties:Permittivity、Permeability、Conductivity<br>
