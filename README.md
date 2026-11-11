@@ -1,9 +1,9 @@
 # COMSOL Learning Journey
-01. Background Knowledge<br>
-02. COMSOL Fundamentals<br>
-03. COMSOL–MATLAB Integration<br>
-04. Literature-Based Simulation<br>
-05. Learning Notes & Troubleshooting
+一、背景知識<br>
+二、COMSOL建模<br>
+三、如何連結MATLAB和COMSOL<br>
+四、使用文獻資料練習模擬<br>
+五、 錯誤紀錄&解決方法
 
 
 **一、背景知識<br>**
@@ -69,6 +69,6 @@ Conformal shield layer consists of SUS (Steel Use Stainless, SUS, an acronym fro
 
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  
   
-
+**五、錯誤紀錄&解決方法**
 
 
