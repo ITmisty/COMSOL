@@ -32,8 +32,9 @@
 4. 在MATLAB中的Command Window中輸入 addpath('~~C:\Program Files\COMSOL\COMSOL56\Multiphysics~~\mli'); mphstart。<br>
 完成後就會這樣
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/107ae9ad-ff96-4e94-9bdc-06f74307df12" width="600">
+  <img src="https://github.com/user-attachments/assets/1fcdf86c-d0fa-4bf1-bf1a-7f2702cbf7a2" width="600">
 </p>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6564f543-81e1-470d-8146-af2d61e1e26e" width="600">
 </p>
