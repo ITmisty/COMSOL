@@ -46,7 +46,7 @@
 
 想要使用COMSOL模擬出圖二的Normal QFN，該如何下手呢?<br>
 目前已知參數:<br>
-1. Geometry Parameters（幾何參數）<br>
+1. Geometry Parameters<br>
 Package Body Size:8 × 8 mm	<br>
 Die Size:4 × 2 mm
 Bond Wire Material:Gold (Au)	
@@ -58,13 +58,13 @@ Relative Permittivity:3.7<br>
 Relative Permeability:1	<br>
 Electrical Conductivity:0S/m<br>
 
-Conformal Shielding Layer（共形屏蔽層）<br>
+Conformal Shielding Layer<br>
 - Material Structure: SUS–Cu–SUS<br>
 - SUS: Stainless Steel（不鏽鋼）<br>
 - Cu: Copper（銅）<br>
 屏蔽層由三層材料組成，依序為不鏽鋼、銅、不鏽鋼。<br>
 
-3. Simulation Conditions（模擬條件）<br>
+3. Simulation Conditions<br>
 Parameter	Value<br>
 Operating Frequency	5 GHz<br>
 Noise Source Distance from Package Top	0.3 mm<br>
