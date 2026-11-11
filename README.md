@@ -36,7 +36,7 @@
 4. 在MATLAB中的Command Window中輸入 addpath('你的COMSOL安裝路徑\Multiphysics\mli');mphstart<br>
 *如果前面有設密碼，連線時會問你，輸入同一組。接著輸入 mphversion，有顯示 COMSOL 版本就成功，之後就能 Run 腳本。<br>
 
-&emsp; 完成後大概會長這樣
+&emsp;&emsp;完成後大概會長這樣
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4605fa92-5730-4c91-8389-4cf4a89ed634" width="600">
 </p>
@@ -46,7 +46,7 @@
 </p>
 
 
-&emsp;提醒:完成連接後命令提示字元視窗不要關，不然會終止 Server，使 MATLAB 無法繼續連線。
+&emsp;&emsp;提醒:完成連接後命令提示字元視窗不要關，不然會終止 Server，使 MATLAB 無法繼續連線。
 
 <a id="practice"></a>
 **四、使用文獻資料練習模擬**
