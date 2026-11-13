@@ -110,7 +110,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad6946ef-aadf-4a42-bf78-defd8ad1ba62" width="600">
 </p> <br>
-基礎建模步驟我會放在另一個資料夾<br>
+基礎建模步驟我會放在另一個資料夾<br>  
+
 
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  <br>
 &emsp;&emsp;這篇試著直接用MATLAB，然後學習在MATLAB端做調整 <br>
