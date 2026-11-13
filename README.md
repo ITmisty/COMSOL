@@ -36,13 +36,29 @@
 4. 在MATLAB中的Command Window中輸入 addpath('你的COMSOL安裝路徑\Multiphysics\mli');mphstart<br>
 *如果前面有設密碼，連線時會問你，輸入同一組。接著輸入 mphversion，有顯示 COMSOL 版本就成功，之後就能 Run 腳本。<br>
 
-&emsp;&emsp;完成後大概會長這樣
+&emsp;&emsp;大概會長這樣
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4605fa92-5730-4c91-8389-4cf4a89ed634" width="600">
+  <img src="https://github.com/user-attachments/assets/c910e077-2918-4b56-9f5f-c6db4357aaf7" width="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/515ac975-295a-4065-a419-15ec0191af14" width="600">
+  <img src="https://github.com/user-attachments/assets/3765ef66-8395-4915-9d3f-2a24e3ade8c2" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf6bb823-ea65-4dba-826b-fca4a95a8550" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e62b5981-9baf-4a62-aa8b-666a0aabcdb0" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f20dabc8-5667-4bd9-b01c-20b22e13d579" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be6d69d6-3fc5-47b1-bbb3-6ff3cdcc2417" width="600">
 </p>
 
 
