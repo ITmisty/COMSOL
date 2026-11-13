@@ -109,7 +109,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad6946ef-aadf-4a42-bf78-defd8ad1ba62" width="600">
 </p> <br>
-如何做出來的放在 基礎建模步驟<br>
+如何做出來的放在 COMSOL基礎建模步驟<br>
 <br>
 <br>
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  <br>
