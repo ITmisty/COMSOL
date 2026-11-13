@@ -6,4 +6,4 @@ Noise source 產生隨頻率變化的訊號，這些訊號以electric field的�
 
 相對介電常數Relative Permittivity(𝜺𝒓, κ):無單位，是衡量介電材料（絕緣體）在電場中儲存電能能力的物理量。越大，代表該材料Polarization的能力越強，在電場中儲存電能的能力也越高。 同時，它也會大幅削弱材料內部的電場強度。
 ⁠相對磁導率Relative Permeability(𝜇𝑟):無單位，用來衡量材料增強或削弱磁場的能力。𝜇𝑟<1抗磁性，𝜇𝑟>1順磁性，𝜇𝑟>>1鐵磁性。𝜇𝑟=𝜇/𝜇0
-電導率Electrical Conductivity(σ): S/m 或 mS/cm，用來表示物質傳導電流能力強弱的物理量，是電阻率（Resistivity）的倒數，越高，代表越容易導電、電阻越小。
+電導率Electrical Conductivity(σ): S/m 或 mS/cm，用來表示物質傳導電流能力強弱的物理量，是電阻率（Resistivity）的倒數。越高，代表越容易導電、電阻越小。
