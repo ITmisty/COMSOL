@@ -114,8 +114,8 @@
 <br>
 文獻二:Wide-range soft anisotropic thermistor with a direct wireless radio frequency interface - Nature communication, 2024  <br>
 &emsp;&emsp;這篇試著直接用MATLAB，然後學習在MATLAB端做調整 <br>
-
-
+<br>
+<br>
 <a id="errors"></a>
 **五、錯誤紀錄&解決方法&功能**
 1. 如果是小Block外面有一個Block罩住，要選取小Block就滾動滑鼠滾輪，不是用點擊的，會點到天荒地老都選不到。這有點愚蠢但困擾我半小時。 <br>
