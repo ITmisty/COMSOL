@@ -14,7 +14,7 @@ clear; close all;<br>
 import com.comsol.model.*<br>
 import com.comsol.model.util.*<br>
 
-第一段學習到的資訊:<br>
+從第一段學習到的資訊:<br>
 1. % 是 MATLAB 的註解符號。<br>
 MATLAB 遇到 % 後，該行後面的文字不會被執行。<br>
 像是Python中的#<br>
