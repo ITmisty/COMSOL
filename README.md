@@ -38,29 +38,24 @@
 
 &emsp;&emsp;大概會長這樣
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c910e077-2918-4b56-9f5f-c6db4357aaf7" width="600">
-</p>
+  <img src="https://github.com/user-attachments/assets/c62883d7-98a3-498c-864d-3ae17bbe3a07" width="600">
+</p><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3765ef66-8395-4915-9d3f-2a24e3ade8c2" width="600">
-</p>
+  <img src="https://github.com/user-attachments/assets/d376f9fa-669b-401e-be1a-6a110360bb3a" width="600">
+</p><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf6bb823-ea65-4dba-826b-fca4a95a8550" width="600">
-</p>
+  <img src="https://github.com/user-attachments/assets/677116e7-f8c0-4937-9af2-d942cfd68833" width="600">
+</p><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e62b5981-9baf-4a62-aa8b-666a0aabcdb0" width="600">
-</p>
+  <img src="https://github.com/user-attachments/assets/b4b9d0a7-5bd9-47d6-8f63-09f3091e2225" width="600">
+</p><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f20dabc8-5667-4bd9-b01c-20b22e13d579" width="600">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be6d69d6-3fc5-47b1-bbb3-6ff3cdcc2417" width="600">
-</p>
-
+  <img src="https://github.com/user-attachments/assets/6a9e2548-8571-4321-b34a-9a6e73a558ea" width="600">
+</p><br>
 
 &emsp;&emsp;提醒:完成連接後命令提示字元視窗不要關，不然會終止 Server，使 MATLAB 無法繼續連線。
 
