@@ -25,7 +25,7 @@
 6. Mesh：建立網格<br>
 7. Study：設定求解方式<br>
 8. Results：分析模擬結果<br>
-9. 顏色和動畫
+9. Others:顏色和動畫
     
 <a id="livelink"></a>
 **三、COMSOL LiveLink for MATLAB** (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
