@@ -105,7 +105,7 @@
 &emsp;&emsp;&emsp;&emsp;Noise Source Distance from Package Side	3.0 mm<br>
 
 &emsp;&emsp;都找完之後就可以打開COMSOL:<br>
-&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦，要先建好一支、複製一排、使用鏡射到對面，再確認座標正確、材料對的上。可能我接觸時間少對操作不熟悉，也許有更快的方式。  附圖是我自己製作的成果(未完成)，少的可憐。  
+&emsp;&emsp;自己動手製作發現非常費時，就算是簡單構造的封裝建模，假設有32支lead frame就夠痛苦，要先建好一支、複製一排、使用鏡射到對面，再確認座標正確、材料對的上。可能我接觸時間少對操作不熟悉，也許有更快的方式。  附圖是製作成果(未完成)，少的可憐。  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad6946ef-aadf-4a42-bf78-defd8ad1ba62" width="600">
 </p> <br>
