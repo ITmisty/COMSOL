@@ -1,6 +1,6 @@
 基礎建模步驟
 
-1.打開COMSOL，我是新手所以選Model Wizard，看需求選Dimension，我是用3D。
+1.打開COMSOL，選Model Wizard，看需求選Dimension，我是用3D。
 接下來步驟如下:
 Radio frequency→Electromagnetic Waves,Frequency Domain(emw)→Add→Study→General Studies→Frequency Domain→Done
 
