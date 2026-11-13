@@ -1,0 +1,1 @@
+Noise source 產生隨頻率變化的訊號，這些訊號以electric field的形式傳播並耦合到別的電路，而frequency domain是用來描述這個雜訊有哪些頻率成分、屏蔽在各頻率下表現如何的分析方式。
