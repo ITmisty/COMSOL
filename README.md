@@ -30,7 +30,7 @@
 <a id="livelink"></a>
 **三、COMSOL LiveLink for MATLAB** (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
 1. 先打開命令提示字元<br>
-2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"，要選最原始的路徑，不是桌面捷徑的路徑<br>
+2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"<br>
 *第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
 3. 再輸入 comsolmphserver.exe<br>
 4. 在MATLAB中的Command Window中輸入 addpath('你的COMSOL安裝路徑\Multiphysics\mli');mphstart<br>
