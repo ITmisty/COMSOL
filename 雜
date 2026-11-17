@@ -8,9 +8,13 @@ Noise source 產生隨頻率變化的訊號，這些訊號以electric field的�
 ⁠相對磁導率Relative Permeability(𝜇𝑟):無單位，用來衡量材料增強或削弱磁場的能力。𝜇𝑟<1抗磁性，𝜇𝑟>1順磁性，𝜇𝑟>>1鐵磁性。𝜇𝑟=𝜇/𝜇0
 導電率Electrical Conductivity(σ): S/m 或 mS/cm，用來表示物質傳導電流能力強弱的物理量，是電阻率（Resistivity）的倒數。越高，代表越容易導電、電阻越小。
 
-Permittivity:由實部和虛部組成，實部代表儲存電場能量的能力，虛部代表電磁能量損耗的程度。εr* = εr′ - jεr′′
-Tangent loss:Permittivity的虛部εr′′/實部εr′，tangent loss越大代表材料的介電損耗越明顯。
+Permittivity:由實部和虛部組成，實部代表儲存電場能量的能力，虛部代表電磁能量損耗的程度。ε* = ε′ - jε′′
+Tangent loss:Permittivity的虛部ε′′/實部ε′，tangent loss越大代表材料的介電損耗越明顯。
 
-舉例來說，文獻一中我假設EMC是理想的無損耗介電材料，εr′=3.7、εr′′=0、σ=0，因此
-
+舉例來說，文獻一中我假設EMC是理想的無損耗介電材料，ε′=3.7、ε′′=0、σ=0，因此tan δ=0
+公式:tan δ=[ε′′+(σ/ωε0)]/ε'。ω角頻率、ε0真空介電常數。
 介電常數不是一值不變的，可能隨頻率改變
+
+S11:入射能量的反射
+S21:從Port1傳輸到Port2的特性
+S12:從Port2傳輸到Port1的特性
