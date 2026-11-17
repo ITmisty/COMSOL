@@ -3,7 +3,7 @@
 [二、COMSOL建模基礎步驟](#step)<br>
 [三、COMSOL LiveLink for MATLAB](#livelink)<br>
 [四、使用文獻資料練習模擬](#practice)<br>
-[五、錯誤紀錄&解決方法&功能](#errors)
+[五、小雜記](#errors)
 
 
 <a id="bg"></a>
