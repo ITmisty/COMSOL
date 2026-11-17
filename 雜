@@ -1,5 +1,6 @@
 Noise source 產生隨頻率變化的訊號，這些訊號以electric field的形式傳播並耦合到別的電路，而frequency domain是用來描述這個雜訊有哪些頻率成分、屏蔽在各頻率下表現如何的分析方式。
 
+**RF Loss**
 介電損耗	Dielectric Loss:極化延遲。電場方向改變→材料內部的偶極子嘗試跟著轉向→偶極子的反應存在時間延遲→交變過程中有部分能量被耗散
 導電損耗	Conduction Loss:電流流動造成的耗散
 磁損耗	Magnetic Loss:磁化反應及磁滯等損耗
@@ -15,6 +16,7 @@ Tangent loss:Permittivity的虛部ε′′/實部ε′，tangent loss越大代�
 公式:tan δ=[ε′′+(σ/ωε0)]/ε'。ω角頻率、ε0真空介電常數。
 介電常數不是一值不變的，可能隨頻率改變
 
+**S-Parameters**
 S11:入射能量的反射
 S21:從Port1傳輸到Port2的特性
 S12:從Port2傳輸到Port1的特性
