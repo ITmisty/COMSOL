@@ -1,4 +1,4 @@
-**基礎建模步驟**(用RF做示範)
+**基礎建模步驟**(先用RF做示範)
 
 1.打開COMSOL，選Model Wizard、看需求選Dimension，我是用3D。<br>
 接下來步驟如下:<br>
