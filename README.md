@@ -29,6 +29,7 @@
     
 <a id="livelink"></a>
 **三、COMSOL LiveLink for MATLAB** (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
+&emsp;&emsp;COMSOL除了連MATLAB也可以連其他軟體，依需求而定。
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"<br>
 *第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
