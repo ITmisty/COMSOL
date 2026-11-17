@@ -3,7 +3,7 @@
 [二、COMSOL建模基礎步驟](#step)<br>
 [三、COMSOL LiveLink for MATLAB](#livelink)<br>
 [四、使用文獻資料練習模擬](#practice)<br>
-[五、小雜記](#errors)
+[五、小功能](#errors)
 
 
 <a id="bg"></a>
@@ -118,6 +118,9 @@
 <br>
 
 <a id="errors"></a>
-**五、小雜記**
+**五、小功能**
 1. 如果是小Block外面有一個Block罩住，要選取小Block就滾動滑鼠滾輪，不是用點擊的，會點到天荒地老都選不到。這有點愚蠢但困擾我半小時。 <br>
-2. 滑鼠長按左鍵轉視角、長按右鍵平移
+2. 滑鼠長按左鍵轉視角、長按右鍵平移<br>
+3. 透明<br>
+4. 複製<br>
+5. 鏡射<br>
