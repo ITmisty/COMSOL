@@ -29,8 +29,8 @@
     
 <a id="livelink"></a>
 **三、COMSOL LiveLink for MATLAB** (MATLAB使用前可以確認所屬學校或機構有沒有買)<br>
-&emsp;&emsp;COMSOL除了連MATLAB也可以連其他軟體，依需求而定。
-&emsp;&emsp;方法一:
+&emsp;&emsp;COMSOL除了連MATLAB也可以連其他軟體，依需求而定。<br>
+&emsp;&emsp;方法一:<br>
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"<br>
 3. 再輸入 comsolmphserver.exe<br>
@@ -74,8 +74,8 @@
 <p align="center">
   點開檔案後按透明就可以看到暖心的一幕
 </p><br>
-&emsp;&emsp;方法二:
-直接在Windows的「開始」選單搜尋 COMSOL Multiphysics 6.4 with MATLAB，加捷徑到桌面就不用每次都連線。
+&emsp;&emsp;方法二:<br>
+直接在Windows的「開始」選單搜尋 COMSOL Multiphysics 6.4 with MATLAB，加捷徑到桌面就不用每次都連線。<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00e303cb-a66c-463a-808d-99332097615e" width="600">
 </p><br>
