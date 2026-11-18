@@ -32,8 +32,8 @@
 &emsp;&emsp;COMSOL除了連MATLAB也可以連其他軟體，依需求而定。
 1. 先打開命令提示字元<br>
 2. 輸入 cd/d"你的COMSOL安裝路徑\Multiphysics\bin\win64"<br>
-*第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
 3. 再輸入 comsolmphserver.exe<br>
+*第一次啟動可能會要你設定使用者名稱和密碼，隨便設一組並記住。
 4. 在MATLAB中的Command Window中輸入 addpath('你的COMSOL安裝路徑\Multiphysics\mli');mphstart<br>
 *如果前面有設密碼，連線時會問你，輸入同一組。接著輸入 mphversion，有顯示 COMSOL 版本就成功，之後就能 Run 腳本。<br>
 
