@@ -76,6 +76,7 @@
 </p><br>
 &emsp;&emsp;方法二:<br>
 &emsp;&emsp;直接在Windows的「開始」選單搜尋 COMSOL Multiphysics 6.4 with MATLAB，加捷徑到桌面就不用每次都連線。<br>
+<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00e303cb-a66c-463a-808d-99332097615e" width="600">
 </p><br>
