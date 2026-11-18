@@ -2,6 +2,7 @@
 [一、背景知識](#bg)<br>
 [二、COMSOL建模基礎步驟](#step)<br>
 [三、COMSOL LiveLink for MATLAB](#livelink)<br>
+- [MATLAB 端資訊與筆記](MATLAB端資訊.md)
 [四、使用文獻資料練習模擬](#practice)<br>
 [五、小功能](#errors)
 
