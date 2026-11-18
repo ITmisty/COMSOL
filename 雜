@@ -20,3 +20,6 @@ Tangent loss:Permittivity的虛部ε′′/實部ε′，tangent loss越大代�
 S11:入射能量的反射
 S21:從Port1傳輸到Port2的特性
 S12:從Port2傳輸到Port1的特性
+
+Epoxy Molding Compound(EMC)材料:環氧塑封料
+Coefficient of Thermal Expansion Mismatch(CTE Mismatch):熱膨脹係數不匹配，造成Warpage、Delamination / Interfacial Failure、焊點疲勞
