@@ -130,6 +130,7 @@
 
 <a id="errors"></a>
 **五、小功能**
+&emsp;&emsp;很基礎的小功能，但可以節省一點時間
 1. 如果是小Block外面有一個Block罩住，要選取小Block就滾動滑鼠滾輪，不是用點擊的，會點到天荒地老都選不到。這有點愚蠢但困擾我半小時。 <br>
 2. 滑鼠長按左鍵轉視角、長按右鍵平移<br>
 3. 透明<br>
@@ -169,4 +170,26 @@
   調完座標按"建立選定的"，就完成了<br>
   建議把名稱改成小塊4，比較不會搞混
 </p><br>
-5. 鏡射<br>
+
+5.群組<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d07ff58-07e6-45e1-bf57-acbe5174a474" width="500">
+</p> <br>
+<p align="center">
+  一堆小塊看了很雜，可以把它們整理到一個群組裡面<br>
+  Geometry 1 上點右鍵找"節點群組"
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6f915330-b40c-4298-b3ce-bbcc16ffa5ed" width="500">
+</p> <br>
+<p align="center">
+  長按Ctrl點選想抓的東西，再點右鍵把它們移到群組，這樣就有乾淨介面了<br>
+</p><br>
+
+6. 鏡射<br>
+
+
+<p align="center">
+  接下來我想要die pad y軸方向兩側都有小塊，所以<br>
+  
+</p><br>
