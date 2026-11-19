@@ -187,9 +187,9 @@
 </p><br>
 
 6. 鏡射<br>
-
-
 <p align="center">
-  接下來我想要die pad y軸方向兩側都有小塊，所以<br>
-  
+  <img src="https://github.com/user-attachments/assets/ab92520a-0d02-4635-acb1-e12fb3fbc94e" width="500">
+</p> <br>
+<p align="center">
+  接下來我想要die pad y軸方向兩側都有小塊，所以使用鏡射功能，同樣的事不用做兩遍<br>
 </p><br>
