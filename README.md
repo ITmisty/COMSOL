@@ -191,5 +191,19 @@
   <img src="https://github.com/user-attachments/assets/ab92520a-0d02-4635-acb1-e12fb3fbc94e" width="500">
 </p> <br>
 <p align="center">
-  接下來我想要die pad y軸方向兩側都有小塊，所以使用鏡射功能，同樣的事不用做兩遍<br>
+  接下來我想要die pad y軸方向兩側都有小塊，所以使用鏡射功能，同樣的事不用做兩遍
 </p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f18e014-78c7-478f-98a5-281c1a85650f" width="500">
+</p> <br>
+<p align="center">
+  在圖形處把要參加鏡射的小塊點一點，記得調鏡射的法線向量，調完按"建立選定的"<br>
+  重要!要勾"保留輸入文件"，不然只是整排被移到對面而已
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad51aa96-eda9-408a-92c6-8fb8ac8821da" width="500">
+</p> <br>
+<p align="center">
+  完成圖
+</p><br>
+
