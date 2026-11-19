@@ -163,7 +163,10 @@
   p.s.我在建模基礎步驟表示以中心作為起點比較好算座標，但在這邊從角落作為起點會簡單不少(小塊是從角落開始排)
 </p><br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8d2ebfc5-d142-4f9a-a807-b4aab6f41491" width="500">
+  <img src="https://github.com/user-attachments/assets/b48b443c-c703-4d97-81bc-de78eb0f546f" width="500">
 </p> <br>
-
+<p align="center">
+  調完座標按"建立選定的"，就完成了<br>
+  建議把名稱改成小塊4，比較不會搞混
+</p><br>
 5. 鏡射<br>
