@@ -133,5 +133,18 @@
 1. 如果是小Block外面有一個Block罩住，要選取小Block就滾動滑鼠滾輪，不是用點擊的，會點到天荒地老都選不到。這有點愚蠢但困擾我半小時。 <br>
 2. 滑鼠長按左鍵轉視角、長按右鍵平移<br>
 3. 透明<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9490a2b2-1b6a-4254-9304-c7b18e56caf4" width="500">
+</p> <br>
+<p align="center">
+  現在圖片中顯示的是設置的空氣域，呈現一整個實心方塊，按透明(按紅色圈圈處)之後就可以看見裡面的東西<br>
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/485507c5-b33e-48c2-8764-f90b39d7fa7f" width="500">
+</p> <br>
+<p align="center">
+  像這樣<br>
+</p><br>
+
 4. 複製<br>
 5. 鏡射<br>
