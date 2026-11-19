@@ -143,8 +143,27 @@
   <img src="https://github.com/user-attachments/assets/485507c5-b33e-48c2-8764-f90b39d7fa7f" width="500">
 </p> <br>
 <p align="center">
-  像這樣<br>
+  像這樣
 </p><br>
 
-4. 複製<br>
+4. 重複<br>
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/726664ca-7c1d-47f0-a145-402dc7499b46" width="500">
+</p> <br>
+<p align="center">
+  我拿blk22做示範，我想在它的右邊多加一個焊料小塊，用重複的方式只需要改一個，其他參數都一樣不用再打一次
+</p><br>
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/137069b8-c8d9-4d73-a841-7a4ce7f1bd88" width="500">
+</p> <br>
+<p align="center">
+  點完會出現新的blk23，這時候我們把x軸的座標加上間距(0.5)，調成-0.25<br>
+  p.s.我在建模基礎步驟表示以中心作為起點比較好算座標，但在這邊從角落作為起點會簡單不少(小塊是從角落開始排)
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d2ebfc5-d142-4f9a-a807-b4aab6f41491" width="500">
+</p> <br>
+
 5. 鏡射<br>
