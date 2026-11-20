@@ -171,7 +171,7 @@
   建議把名稱改成小塊4，比較不會搞混
 </p><br>
 
-5.群組<br>
+5. 群組<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d07ff58-07e6-45e1-bf57-acbe5174a474" width="500">
 </p> <br>
@@ -207,7 +207,7 @@
   完成圖
 </p><br>
 
-7.資料庫Application libraries
+7. 資料庫Application libraries<br>
 &emsp;可以從資料庫中學習各種功能，並做建模參考
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e4c8383d-d98b-46b6-aa95-ca6cad0318e4" width="500">
