@@ -130,7 +130,7 @@
 
 <a id="errors"></a>
 **五、小功能**<br>
-&emsp;&emsp;很基礎的小功能，但可以節省一點時間<br>
+&emsp;很基礎的小功能，但可以節省一點時間<br>
 1. 如果是小Block外面有一個Block罩住，要選取小Block就滾動滑鼠滾輪，不是用點擊的，會點到天荒地老都選不到。這有點愚蠢但困擾我半小時。 <br>
 2. 滑鼠長按左鍵轉視角、長按右鍵平移<br>
 3. 透明<br>
@@ -206,4 +206,29 @@
 <p align="center">
   完成圖
 </p><br>
+
+7.資料庫Application libraries
+&emsp;可以從資料庫中學習各種功能，並做建模參考
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4c8383d-d98b-46b6-aa95-ca6cad0318e4" width="500">
+</p> <br>
+<p align="center">
+  在"檔案"處找到"應用資料庫"
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5a3a3d2-edbd-4849-8b9a-808f6c72540e" width="500">
+</p> <br>
+<p align="center">
+  會出現各類型已經建好的模型，可以直接選或是搜尋
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/80e45004-68f3-4efc-855f-894963c989e2" width="500">
+</p> <br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07653803-d628-469e-853a-8dd3043ea715" width="500">
+</p> <br>
+<p align="center">
+  可以從左邊的資訊欄學到很多
+</p><br>
+
 
