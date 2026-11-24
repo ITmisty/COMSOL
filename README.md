@@ -233,13 +233,17 @@
 
 8. 剖面圖<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1b0b97e-080e-4b82-b195-c64e1f18caa1" width="500">
-</p> <br>
+  <img src="https://github.com/user-attachments/assets/9180eead-2752-43a2-85d5-8707d74fddb1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5bfddd50-19ec-439e-8b47-f0bbc16232ef" width="45%" />
+</p>
 <p align="center">
-  結果→資料集點右鍵→切面(Cut Plane)
+  原本是像左圖這樣，希望變成像右圖一樣顯示剖面電場影響範圍
 </p><br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52fa7ae1-3181-487b-a67e-34415c9a23a4" width="500">
-</p> <br>
 
+<p align="center">
+  需要做以下幾件事:<br>
+  結果→資料集點右鍵→研究 1/解 1(Solution)<br>
+  結果→資料集點右鍵→切面(Cut Plane)<br>
+  
+</p><br>
 
