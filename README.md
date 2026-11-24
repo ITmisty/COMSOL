@@ -231,4 +231,15 @@
   可以從左邊的資訊欄學到很多
 </p><br>
 
+8. 剖面圖<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1b0b97e-080e-4b82-b195-c64e1f18caa1" width="500">
+</p> <br>
+<p align="center">
+  結果→資料集點右鍵→切面(Cut Plane)
+</p><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52fa7ae1-3181-487b-a67e-34415c9a23a4" width="500">
+</p> <br>
+
 
