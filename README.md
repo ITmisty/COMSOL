@@ -216,7 +216,7 @@
   在"檔案"處找到"應用資料庫"
 </p><br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f5a3a3d2-edbd-4849-8b9a-808f6c72540e" width="500">
+  <img src="https://github.com/user-attachments/assets/f5a3a3d2-edbd-4849-8b9a-808f6c72540e" height="500">
 </p> <br>
 <p align="center">
   會出現各類型已經建好的模型，可以直接選或是搜尋
