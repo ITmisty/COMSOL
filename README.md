@@ -233,8 +233,8 @@
 
 8. 剖面圖<br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9180eead-2752-43a2-85d5-8707d74fddb1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5bfddd50-19ec-439e-8b47-f0bbc16232ef" width="45%" />
+  <img src="https://github.com/user-attachments/assets/9180eead-2752-43a2-85d5-8707d74fddb1" width="300" />
+  <img src="https://github.com/user-attachments/assets/5bfddd50-19ec-439e-8b47-f0bbc16232ef" width="300" />
 </p>
 <p align="center">
   原本是像左圖這樣，希望變成像右圖一樣顯示剖面電場影響範圍
