@@ -236,6 +236,18 @@
   <img src="https://github.com/user-attachments/assets/9180eead-2752-43a2-85d5-8707d74fddb1" width="300" />
   <img src="https://github.com/user-attachments/assets/5bfddd50-19ec-439e-8b47-f0bbc16232ef" width="300" />
 </p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9180eead-2752-43a2-85d5-8707d74fddb1" width="300" /><br />
+      <b>圖一：說明文字</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5bfddd50-19ec-439e-8b47-f0bbc16232ef" width="300" /><br />
+      <b>圖二：說明文字</b>
+    </td>
+  </tr>
+</table>
 <p align="center">
   原本是像左圖這樣，希望變成像右圖一樣顯示剖面電場影響範圍
 </p><br>
