@@ -241,6 +241,10 @@
 </p><br>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/89a9413d-9177-49f2-9b9f-69c5dd911752" width="500">
+</p> <br>
+
+<p align="center">
   需要做以下幾件事:<br>
   結果→資料集點右鍵→研究 1/解 1(Solution)<br>
   結果→資料集點右鍵→切面(Cut Plane)<br>
